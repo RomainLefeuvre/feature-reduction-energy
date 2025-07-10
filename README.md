@@ -24,6 +24,9 @@
 ### Context
 This repository is a companion repository of the submitted paper "On the Effect of Feature Reduction on Energy Consumption:An Exploratory Study" it contains all the source code and the result artifact.
 
+>Xhevahire Tërnava, Romain Lefeuvre, Quentin Perez, Djamel Eddine Khelladi, Mathieu Acher, Benoit Combemale (2025). On the Effect of Feature Reduction on Energy Consumption: An Exploratory Study. In The Systems and Software Product Line Conference (2025).
+
+
 ### Structure
 * ```initial_experiment``` : Scripts used to execute the first experiment
 * ```second_experiment``` : Scripts used to execute the second experiment
